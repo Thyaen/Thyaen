@@ -1,10 +1,10 @@
 <h2> Hi there, I'm Thomas <img src="./Assets/7.gif" width="50"></h2>
 <p><em>
   Student at <a href="https://www.tu.berlin/">Technische Universität Berlin</a>
-    <img src="" width="30">
+    <img src="./Assets/2.gif" width="30">
   </br>
   Doing Bachelor of Computer Science at <a href="https://www.tu.berlin/">Technische Universität Berlin</a>
-    <img src="" width="30">
+    <img src="./Assets/3.gif" width="30">
 </em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Thyaen)
