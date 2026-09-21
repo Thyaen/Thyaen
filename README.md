@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Thomas <img src="./Assets/7.gif" width="50"></h2>
+<h2> Hi there, I'm Thomas <img src="./Assets/4.gif" width="50"></h2>
 <p><em>
   Student at <a href="https://www.tu.berlin/">Technische Universität Berlin</a>
     <img src="./Assets/2.gif" width="30">
@@ -22,8 +22,6 @@ const Thyaen = {
   challenge: "I am doing the #100DaysOfCode on C"
 }
 ```
-
-<img src="" width="60"> <em><b>I love connecting with different people,</b> so if you want to say <b>hi</b>, I'd be happy to meet you!</em>
 
 <details>
 
