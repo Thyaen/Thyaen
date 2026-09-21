@@ -18,7 +18,7 @@ const Thyaen = {
   pronouns: "he" | "him",
   code: [Python, Java, C#],
   tools: [Docker],
-  system: [Linux, Archlinux, Wayland, Windows, macOS],
+  system: [Linux, Archlinux, Wayland, Windows],
   challenge: "I am doing the #100DaysOfCode on C"
 }
 ```
