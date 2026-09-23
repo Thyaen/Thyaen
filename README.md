@@ -19,7 +19,7 @@ const Thyaen = {
   code: [Python, Java, C#],
   tools: [Docker],
   system: [Linux, Archlinux, Wayland, Windows],
-  challenge: "I am doing the #100DaysOfCode on C"
+  challenge: "I am doing the #100DaysOfCode on C#"
 }
 ```
 
