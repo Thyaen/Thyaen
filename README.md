@@ -19,7 +19,7 @@ const Thyaen = {
   code: [Python, Java, C#],
   tools: [Docker],
   system: [Linux, Archlinux, Wayland, Windows],
-  challenge: "I'm doing Mario Kart in Unity"
+  challenge: "Doing Mario Kart in Unity"
 }
 ```
 
