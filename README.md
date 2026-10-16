@@ -18,7 +18,7 @@ const Thyaen = {
   pronouns: "he" | "him",
   code: [Python, Java, C#],
   tools: [Docker],
-  system: [Linux, Windows, macOS],
+  system: [Linux, Windows, MacOS],
   challenge: "Doing an intelligent content-extractor & ATS-scorer"
 }
 ```
