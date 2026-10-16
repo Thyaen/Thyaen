@@ -18,8 +18,8 @@ const Thyaen = {
   pronouns: "he" | "him",
   code: [Python, Java, C#],
   tools: [Docker],
-  system: [Linux, Archlinux, Wayland, Windows],
-  challenge: "Doing Mario Kart in Unity"
+  system: [Linux, Archlinux, Ubuntu, Windows, macOS],
+  challenge: "Doing an intelligent content-extractor & ATS-scorer"
 }
 ```
 
